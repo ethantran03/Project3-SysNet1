@@ -6,7 +6,7 @@ CXXFLAGS = -g -Wall
 TARGET = lizards
 
 # Source files
-SRC = lizards.cpp
+SRC = lizards.cpp 
 # If you completed the extra credit, add lizardsUni.cpp
 # SRC = lizards.cpp lizardsUni.cpp
 
